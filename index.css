@@ -1,0 +1,387 @@
+.log
+{
+  width: 180px;
+  margin-left: 5px;
+  padding: 0px;
+}
+nav
+{
+  background-color: #ffff;
+}
+
+.navlin
+{
+  color: #3C40C6;
+  font-size: 20px;
+}
+.lefp
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family: 'K2D', sans-serif;
+}
+.lefp .lp1
+{
+  font-size: 30px;
+  background-color: #EAF0F1;
+}
+.lefp .lp1 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lefp .lp2
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lefp .lp2 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lefp .lp3
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lefp .lp3 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
+.lefp .lp4
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lefp .lp4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lefp .lp5
+{
+  margin-top:30px;
+}
+.vl {
+    border-left: 1px solid ;
+    margin-left: 15px;
+    height: 520px;
+}
+.for1 h
+{
+  margin-left: 36%;
+  font-family: 'K2D', sans-serif;
+  color: #2F363F;
+  font-size: 35px;
+}
+.cofi
+{
+  margin-top: 15px;
+}
+.cla{
+  margin-top: 25px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.cofs
+{
+  margin-top: 25px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.cofe
+{
+  margin-top: 25px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.btl
+{
+  margin-top: 35px;
+}
+.btrn
+{
+  margin-top: 35px;
+}
+
+
+/* EXPERIENCE CSS */
+
+.lef2p
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family: 'K2D', sans-serif;
+}
+.lef2p .l2p1
+{
+  font-size: 30px;
+}
+.lef2p .l2p1 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef2p .l2p2
+{
+  margin-top:30px;
+  font-size: 30px;
+  background-color: #EAF0F1;
+}
+.lef2p .l2p2 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef2p .l2p3
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef2p .l2p3 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
+.lef2p .l2p4
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef2p .l2p4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef2p .l2p5
+{
+  margin-top:30px;
+}
+.f2or1 h
+{
+  margin-left: 39%;
+  font-family: 'K2D', sans-serif;
+  color: #2F363F;
+  font-size: 35px;
+}
+.co2fi
+{
+  margin-top: 15px;
+}
+.c2la{
+  margin-top: 10px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.co2fs
+{
+  margin-top: 15px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.co2fe
+{
+  margin-top: 15px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.b2tl
+{
+  margin-top: 20px;
+}
+.b2trn
+{
+  margin-top: 20px;
+}
+.dec2{
+  font-family: 'Varela Round', sans-serif;
+}
+.b2tnc
+{
+  margin-top: 20px;
+}
+
+/*  EDUCATION */
+
+.lef3p
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family: 'K2D', sans-serif;
+}
+.lef3p .l3p1
+{
+  font-size: 30px;
+}
+.lef3p .l3p1 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef3p .l3p2
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef3p .l3p2 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef3p .l3p3
+{
+  margin-top:30px;
+  font-size: 30px;
+  background-color: #EAF0F1;
+}
+.lef3p .l3p3 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
+.lef3p .l3p4
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef3p .l3p4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef3p .l3p5
+{
+  margin-top:30px;
+}
+.f3or1 h
+{
+  margin-left: 39%;
+  font-family: 'K2D', sans-serif;
+  color: #2F363F;
+  font-size: 35px;
+}
+.co3fi
+{
+  margin-top: 30px;
+}
+.c3la{
+  margin-top: 20px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.co3fs
+{
+  margin-top: 30px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.co3fe
+{
+  margin-top: 30px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.b3tl
+{
+  margin-top: 25px;
+}
+.b3trn
+{
+  margin-top: 25px;
+}
+.b3tnc
+{
+  margin-top: 25px;
+}
+
+
+/* SKILL */
+
+
+.lef4p
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family: 'K2D', sans-serif;
+}
+.lef4p .l4p1
+{
+  font-size: 30px;
+}
+.lef4p .l4p1 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef4p .l4p2
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef4p .l4p2 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef4p .l4p3
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef4p .l4p3 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
+.lef4p .l4p4
+{
+  margin-top:30px;
+  font-size: 30px;
+  background-color: #EAF0F1;
+}
+.lef4p .l4p4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef4p .l4p5
+{
+  margin-top:30px;
+}
+.f4or1 h
+{
+  margin-left: 42%;
+  font-family: 'K2D', sans-serif;
+  color: #2F363F;
+  font-size: 35px;
+}
+.co4fi
+{
+  margin-top: 30px;
+  font-family: 'Varela Round', sans-serif;
+}
+.co4fs
+{
+  margin-top: 30px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.co4fe
+{
+  margin-top: 30px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.b4tl
+{
+  margin-top: 25px;
+}
+.b4trn
+{
+  margin-top: 25px;
+}
+.b4tnc
+{
+  margin-top: 25px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .mdbt {
+        margin-left: 30%;
+    }
+    .mdbt .b3tnc
+    {
+      margin-left: -5%;
+    }
+    .f3or1
+    {
+      margin-top: 20px;
+    }
+}
