@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<title>Personal</title>
+<title>Summary</title>
   </head>
   <body>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -25,47 +25,43 @@
 </nav>
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-4 col-lg-2 col-sm-5 lefp">
-        <div class="lp1"><a href="#">Personal Info</a></div>
-        <div class="lp6"><a href="summary.html">Summary</a></div>
-        <div class="lp2"><a href="experience.html">Experience</a></div>
-        <div class="lp3"><a href="education.html">Education</a></div>
-        <div class="lp4"><a href="skills.html">Skills</a></div>
-        <div class="lp5"><button type="button" class="btn btn-outline-dark" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="fas fa-plus"></i> Add New</button></div>
+    <div class="col-md-4 col-lg-2 col-sm-5 lef5p">
+        <div class="l5p1"><a href="index.html">Personal Info</a></div>
+        <div class="l5p6"><a href="#">Summary</a></div>
+        <div class="l5p2"><a href="experience.html">Experience</a></div>
+        <div class="l5p3"><a href="education.html">Education</a></div>
+        <div class="l5p4"><a href="skills.html">Skills</a></div>
+        <div class="l5p5"><button type="button" class="btn btn-outline-dark" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="fas fa-plus"></i> Add New</button></div>
     </div>
     <div class="col-lg-1 d-none d-xl-block">
         <div class="vl"></div>
     </div>
-    <div class="col-md-8 col-lg-8 col-sm-12 for1">
-    <h>Personal Info</h>
+    <div class="col-md-8 col-lg-8 col-sm-12 f5or1">
+    <h>Summary</h>
+
     <form>
-      <div class="form-row cofi">
+
+      <div class="form-row cof6s">
         <div class="col">
-          <span>First Name</span><input type="text" class="form-control" placeholder="First name">
-        </div>
-        <div class="col">
-          <span>Last Name</span><input type="text" class="form-control" placeholder="Last name">
+          <span>Github Url</span><input type="text" class="form-control" placeholder="Url">
         </div>
       </div>
-      <div class="form-row cofs">
+      <div class="form-row cof6e">
         <div class="col">
-          <span>State</span><input type="text" class="form-control" placeholder="State">
-        </div>
-        <div class="col">
-          <span>City</span><input type="text" class="form-control" placeholder="City">
+          <span>Linkedin Url</span><input type="text" class="form-control" placeholder="Url">
         </div>
       </div>
-      <div class="form-row cofe">
-        <div class="col">
-          <span>Email</span><input type="text" class="form-control" placeholder="Email">
-        </div>
-        <div class="col">
-          <span>Phone</span><input type="text" class="form-control" placeholder="Phone">
-        </div>
+      <div class="form-group dec6">
+        <label for="Description">Description</label>
+        <textarea class="form-control" rows="2"></textarea>
       </div>
-      <div class="form-row cla">
-        <div class="col ">
-          <span>Address</span><input type="text" class="form-control" placeholder="Address">
+      <div class="input-group gp">
+        <div class="custom-file">
+          <p>Profile</p><input type="file" class="custom-file-input gp1" id="inputGroupFile02">
+          <label class="custom-file-label" for="inputGroupFile02" aria-describedby="inputGroupFileAddon02">Choose file</label>
+        </div>
+        <div class="input-group-append">
+          <span class="input-group-text" id="inputGroupFileAddon02">Upload</span>
         </div>
       </div>
 </form>

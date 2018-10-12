@@ -56,6 +56,15 @@ nav
     text-decoration: none;
     color: #2B2B52;
 }
+.lefp .lp6
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lefp .lp6 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
 .lefp .lp5
 {
   margin-top:30px;
@@ -144,6 +153,15 @@ nav
   font-size: 30px;
 }
 .lef2p .l2p4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef2p .l2p6
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef2p .l2p6 a{
     text-decoration: none;
     color: #2B2B52;
 }
@@ -243,6 +261,15 @@ nav
 {
   margin-top:30px;
 }
+.lef3p .l3p6
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef3p .l3p6 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
 .f3or1 h
 {
   margin-left: 39%;
@@ -334,6 +361,15 @@ nav
 {
   margin-top:30px;
 }
+.lef4p .l4p6
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef4p .l4p6 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
 .f4or1 h
 {
   margin-left: 42%;
@@ -371,6 +407,102 @@ nav
   margin-top: 25px;
 }
 
+/* Summary */
+
+
+.lef5p
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-family: 'K2D', sans-serif;
+}
+.lef5p .l5p1
+{
+  font-size: 30px;
+}
+.lef5p .l5p1 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef5p .l5p2
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef5p .l5p2 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef5p .l5p3
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef5p .l5p3 a{
+  text-decoration: none;
+  color: #2B2B52;
+}
+.lef5p .l5p4
+{
+  margin-top:30px;
+  font-size: 30px;
+}
+.lef5p .l5p4 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+.lef5p .l5p5
+{
+  margin-top:30px;
+}
+.lef5p .l5p6
+{
+  margin-top:30px;
+  font-size: 30px;
+  background-color: #EAF0F1;
+}
+.lef5p .l5p6 a{
+    text-decoration: none;
+    color: #2B2B52;
+}
+
+
+
+.f5or1 h
+{
+  margin-left: 41%;
+  font-family: 'K2D', sans-serif;
+  color: #2F363F;
+  font-size: 35px;
+}
+
+.cof6s
+{
+  margin-top: 25px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.cof6e
+{
+  margin-top: 25px;
+  color: #2F363F;
+  font-family: 'Varela Round', sans-serif;
+}
+.gp
+{
+  margin-top: 47px;
+}
+.gp p
+{
+  margin-top: -45px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.dec6
+{
+  margin-top: 20px;
+  font-family: 'Varela Round', sans-serif;
+}
 
 @media only screen and (max-width: 600px) {
     .mdbt {
@@ -383,5 +515,45 @@ nav
     .f3or1
     {
       margin-top: 20px;
+    }
+    .f3or1 h
+    {
+      margin-left: 80px;
+    }
+    .f5or1 h
+    {
+      margin-left: 80px;;
+    }
+    .mdbt .b2tnc
+    {
+      margin-left: -5%;
+    }
+    .f2or1 h
+    {
+        margin-left: 60px;
+    }
+    .f2or1
+    {
+      margin-top: 20px;
+    }
+    .for1
+    {
+      margin-top: 20px;
+    }
+    .for1 h
+    {
+      margin-left: 60px;
+    }
+    .f4or1
+    {
+      margin-top: 20px;
+    }
+    .f4or1 h
+    {
+      margin-left: 100px;
+    }
+    .mdbt .b4tnc
+    {
+      margin-left: -5%;
     }
 }
